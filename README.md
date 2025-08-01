@@ -60,3 +60,7 @@ for bash, this can be used to iterate over rules. warning though, this will gene
 ```
 for i in {0..255}; do python3 reca.py -i 8 -Sna -r $i -m 2 -s 0 0 1 1 0 0 1 1; done;
 ```
+
+the above command for example produces something like this
+
+![](scripted.png)
