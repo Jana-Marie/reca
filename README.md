@@ -10,7 +10,7 @@ radial elementary cellular automaton experimentation. the code is not pretty, no
   <tbody>
     <tr>
       <td colspan="3">
-        for the most part this is just a simple (and probably buggy) elementary cellular automaton https://en.wikipedia.org/wiki/Elementary_cellular_automaton, with an added wraparound at the edges that can be enabled. However the twist is that the projection happens on a polar grid instead of cartesian. Combined with the wraparound this creates a radial elementary cellular automaton. Rendering is being done via matplotlib, each row of the automaton becomes a bar chart with the number of cells it has. All bar charts have the same total length and are then placed on a polar plot.
+        for the most part this is just a simple (and probably buggy) elementary cellular automaton https://en.wikipedia.org/wiki/Elementary_cellular_automaton, with an added wraparound at the edges that can be enabled. however the twist is that the projection happens on a polar grid instead of cartesian. combined with the wraparound this creates a radial elementary cellular automaton. rendering is being done via matplotlib, each row of the automaton becomes a bar chart with the number of cells it has. all bar charts have the same total length and are then placed on a polar plot.
       </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@ radial elementary cellular automaton experimentation. the code is not pretty, no
 
 ### usage
 
-'''
+```
 usage: RECA [-h] [-i ITERATIONS] [-r RULE] [-s START [START ...]] [-a] [-m MULT] [-n] [-S]
 
 Radial Elementary Cellular Automaton
@@ -47,4 +47,4 @@ options:
   -S, --save            save the plot
 
 e.g. python3 recy.py -i 14 -Sn  # 14 iterations, do not display the plot, but save the figure
-'''
+```
