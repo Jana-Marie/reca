@@ -29,7 +29,7 @@ radial elementary cellular automaton experimentation. the code is not pretty, no
 
 ### gallery
 
-a more extensive gallery can be found at [/gallery](https://github.com/Jana-Marie/reca/gallery)
+a more extensive gallery can be found at [/gallery](https://github.com/Jana-Marie/reca/tree/main/gallery)
 
 ### usage
 
