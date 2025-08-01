@@ -4,13 +4,13 @@
   <tbody>
     <tr>
       <td>
-        <img src="reca_8_74_00110011_True_2.0.png"/>
+        <img src="images/reca_8_74_00110011_True_2.0.png"/>
       </td>
       <td>
-        <img src="reca_20_57_1010_False_1.3.png"/>
+        <img src="images/reca_20_57_1010_False_1.3.png"/>
       </td>
       <td>
-        <img src="reca_60_22_0001100011_False_1.02.png"/>
+        <img src="images/reca_60_22_0001100011_False_1.02.png"/>
       </td>
     </tr>
     <tr>
@@ -30,13 +30,13 @@
     </tr>
     <tr>
       <td>
-        <img src="reca_20_57_1010_True_1.3.png"/>
+        <img src="images/reca_20_57_1010_True_1.3.png"/>
       </td>
       <td>
-        <img src="reca_20_73_0001100011_False_1.2.png"/>
+        <img src="images/reca_20_73_0001100011_False_1.2.png"/>
       </td>
       <td>
-        <img src="reca_30_92_0001100011_False_1.2.png"/>
+        <img src="images/reca_30_92_0001100011_False_1.2.png"/>
       </td>
     </tr>
     <tr>
@@ -56,13 +56,13 @@
     </tr>
     <tr>
       <td>
-        <img src="reca_13_99_101010_True_2.0.png"/>
+        <img src="images/reca_13_99_101010_True_2.0.png"/>
       </td>
       <td>
-        <img src="reca_13_92_101010_True_1.2.png"/>
+        <img src="images/reca_13_92_101010_True_1.2.png"/>
       </td>
       <td>
-        <img src="reca_13_92_10101010101010101010101010101010_True_0.4.png"/>
+        <img src="images/reca_13_92_10101010101010101010101010101010_True_0.4.png"/>
       </td>
     </tr>
     <tr>
@@ -82,13 +82,13 @@
     </tr>
     <tr>
       <td>
-        <img src="reca_13_92_10101010101010101010101010101010_True_0.9.png"/>
+        <img src="images/reca_13_92_10101010101010101010101010101010_True_0.9.png"/>
       </td>
       <td>
-        <img src="reca_13_92_010_True_1.5.png"/>
+        <img src="images/reca_13_92_010_True_1.5.png"/>
       </td>
       <td>
-        <img src="reca_8_12_00110011_True_2.0.png"/>
+        <img src="images/reca_8_12_00110011_True_2.0.png"/>
       </td>
     </tr>
     <tr>
@@ -108,13 +108,13 @@
     </tr>
     <tr>
       <td>
-        <img src="reca_8_37_00110011_True_2.0.png"/>
+        <img src="images/reca_8_37_00110011_True_2.0.png"/>
       </td>
       <td>
-        <img src="reca_8_24_00110011_True_2.0.png"/>
+        <img src="images/reca_8_24_00110011_True_2.0.png"/>
       </td>
       <td>
-        <img src="reca_8_95_00110011_True_2.0.png"/>
+        <img src="images/reca_8_95_00110011_True_2.0.png"/>
       </td>
     </tr>
     <tr>
