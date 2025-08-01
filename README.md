@@ -64,3 +64,7 @@ for i in {0..255}; do python3 reca.py -i 8 -Sna -r $i -m 2 -s 0 0 1 1 0 0 1 1; d
 the above command for example produces something like this
 
 ![](scripted.png)
+
+### bugs & todo
+
+there seems to be a rollover bug somewhere, as the alternative ruleset is not symmetrical as it should be
