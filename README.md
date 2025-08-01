@@ -27,6 +27,10 @@ radial elementary cellular automaton experimentation. the code is not pretty, no
   </tbody>
 </table>
 
+### gallery
+
+a more extensive gallery can be found at [/gallery](https://github.com/Jana-Marie/reca/gallery)
+
 ### usage
 
 ```
@@ -47,4 +51,12 @@ options:
   -S, --save            save the plot
 
 e.g. python3 recy.py -i 14 -Sn  # 14 iterations, do not display the plot, but save the figure
+```
+
+### batch generation
+
+for bash, this can be used to iterate over rules. warning though, this will generate 256 pngs in the current directory, so you maybe want to run this in a seperate directory (via `... python3 ../reca.py ...` in a sub directory)
+
+```
+for i in {0..255}; do python3 reca.py -i 8 -Sna -r $i -m 2 -s 0 0 1 1 0 0 1 1; done;
 ```
